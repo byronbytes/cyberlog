@@ -38,4 +38,16 @@
 
 
 
-## 
+## Bluetooth Exploit / Network Share
+
+### What can this exploit do?
+
+- Access files remotely from another device and could allow an attacker to manually place code into places where it shouldn't
+
+### Exploit Severity
+
+*5/5*
+
+### Problems With This Exploit
+
+- Again, might not even entirely work, and bluetooth is most likely blocked and there are probably precautions for Network Share as well.

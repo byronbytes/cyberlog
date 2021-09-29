@@ -33,4 +33,4 @@ Alright, this is way way worse and a much more severe RAT.
 
 
 # Suspections
-I suspect that RelayClassroom is for teachers monitoring the computers while in class, but the problem is that there is no pre-notification that you are being watched, and there is no way to know that you aren't being watched. So in theroy they could check up on you while you are in your HOUSE.
+I suspect that RelayClassroom is for teachers monitoring the computers while in class, but the problem is that there is no pre-notification that you are being watched, and there is no way to know that you aren't being watched. So in theroy they could check up on you while you are in your HOUSE. Relay is most likely the main point and connector.

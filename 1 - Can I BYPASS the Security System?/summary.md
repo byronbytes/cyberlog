@@ -34,3 +34,24 @@ Alright, this is way way worse and a much more severe RAT.
 
 # Suspections
 I suspect that RelayClassroom is for teachers monitoring the computers while in class, but the problem is that there is no pre-notification that you are being watched, and there is no way to know that you aren't being watched. So in theroy they could check up on you while you are in your HOUSE. Relay is most likely the main point and connector.
+
+
+# The Drawing Board
+So, we have now analyzed WHAT this is, HOW this is a problem and WHAT this problem can cause, now we have to figure out how to find a workaround for it.
+
+## Idea #1 - Popup Creator
+The first thing I noticed is that if the site gives a popup before closure, it will not close until it gets force-closed 2-3~ more times. We could code an extension that creates a pop-up on a whitelisted site closure.
+
+### Pros
++ Will give an extra 30 seconds of reflex time.
++ Not annoying unless it was force-closed
+
+### Cons
+- Not permanent
+
+## Roadblocks
+![image](https://user-images.githubusercontent.com/53088136/135456604-4ae4bf90-1cdd-49c3-a9fc-cf9cda4b26f6.png)
+Unable to create extensions.
+
+## Workarounds
+You could try creating a website, and adding a popup spam, since basic HTML is the only thing needed for that.

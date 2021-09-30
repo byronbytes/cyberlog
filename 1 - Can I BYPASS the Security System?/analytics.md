@@ -4,6 +4,10 @@ I have finally found a worthy reason to bypass the system. Look at this extensio
 
 Some very concerning things about this RAT is that it can view whatever you are doing at anytime, which is a massive invasion of privacy, I was also able to take a  at the site's "spy"board and was able to see that it can view what site you visit the most and what you are currently on. Of course, this site was most visited because I get bored and I like coding. I have a small assumption that it lags out any "other" websites because once this was noticed by me, my computer starts freezing on websites like this. Could just be chromebook lag, or a coincidence. But I doubt this because it gets proccedingly slower.  Apparantly GitHub might get blocked soon, which I will hopefully oppose since there is nothing malicious about the site, as it's just coding.
 
+## Important Information
+While taking a glance at the main panel, I have noticed that this has WAY more permission than it should have. It has the ability to see recent search history, capture the current screen (explained earlier in thread) and recordings (which I have no idea what that is). There is also a notification for "unusual browsing history" which will report searches, in an example I was able to see, it was "google snakw" (google snake).
+
+
 Let's break down what permissions this unfairly inherits:
 
 * Read and change all your data on the websites you visit
@@ -58,5 +62,5 @@ Unable to create extensions. Well there goes that idea.
 You could try creating a website, and adding a popup spam, since basic HTML is the only thing needed for that. Unfortunately that cannot apply to every website, and only a select few, so I guess overall this cannot work.
 
 
-## Idea #2 - IDK
+## Idea #2 - Internet Connection
 I don't know yet...

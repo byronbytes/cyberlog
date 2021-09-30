@@ -62,7 +62,7 @@ Unable to create extensions. Well there goes that idea.
 You could try creating a website, and adding a popup spam, since basic HTML is the only thing needed for that. Unfortunately that cannot apply to every website, and only a select few, so I guess overall this cannot work.
 
 
-## Idea #2 - Internet Connection
+## Idea #2 - Internet Connection (Success!)
 While trying to find loopholes in the system, I have figured out that the extension is unable to access the device if it is not connected to the internet, this is very good news for us, as I was able to see the panel for me and it said "Loading". So I would say this is a current success.
 
 ### Pros

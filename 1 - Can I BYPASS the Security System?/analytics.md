@@ -2,7 +2,7 @@ I have finally found a worthy reason to bypass the system. Look at this extensio
 
 ![image](https://user-images.githubusercontent.com/53088136/135299328-f5cdc64e-7308-48a4-800a-18a50c681633.png)
 
-Some very concerning things about this RAT is that it can view whatever you are doing at anytime, which is a massive invasion of privacy, I was also able to take a  at the site's "spy"board and was able to see that it can view what site you visit the most and what you are currently on. Of course, this site was most visited because I get bored and I like coding. I have a small assumption that it lags out any "other" websites because once this was noticed by me, my computer starts freezing on websites like this. Could just be chromebook lag, or a coincidence. But I doubt this because it gets proccedingly slower.
+Some very concerning things about this RAT is that it can view whatever you are doing at anytime, which is a massive invasion of privacy, I was also able to take a  at the site's "spy"board and was able to see that it can view what site you visit the most and what you are currently on. Of course, this site was most visited because I get bored and I like coding.
 
 ## Important Information
 While taking a glance at the main panel, I have noticed that this has WAY more permission than it should have. It has the ability to see recent search history, capture the current screen (explained earlier in thread) and recordings (which I have no idea what that is). There is also a notification for "unusual browsing history" which will report searches, in an example I was able to see, it was "google snakw" (google snake).
@@ -75,7 +75,7 @@ While trying to find loopholes in the system, I have figured out that the extens
 ### Cons
 - You will have limited site access for as long it is disconnected
 - Probably other stuff but I haven't tested it yet.
-
+- Online Multiplayer stuff does not work
 ## Workarounds
 I don't know, but I will research this more.
 

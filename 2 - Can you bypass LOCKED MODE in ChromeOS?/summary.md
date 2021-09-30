@@ -6,7 +6,11 @@ Another worthy opponent, LOCKED MODE. Now, what is locked mode?  Locked mode is 
 
 (Taken from official google support)
 
-## Initial Research
+## Information
 I assume that locked mode keeps the current screen (or form) pinned to the top and everything else stays below it, even system things such as the task manager and basically everything. It puts the form in fullscreen which means you are unable to really do anything. As it states, you are also unable to do certain shortcuts.
 
 Now, this is way easier to bypass since it's only a system restriction and not a blocked extension spying tool type thing.
+
+
+## Idea #1 - Unblocked Shortcut
+Somehow, I found this while trying to figure out to get rid of locked mode, I was able to use the side screen swipe gesture to go back a page.

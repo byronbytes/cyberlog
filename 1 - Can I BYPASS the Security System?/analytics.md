@@ -2,7 +2,7 @@ I have finally found a worthy reason to bypass the system. Look at this extensio
 
 ![image](https://user-images.githubusercontent.com/53088136/135299328-f5cdc64e-7308-48a4-800a-18a50c681633.png)
 
-Some very concerning things about this RAT is that it can view whatever you are doing at anytime, which is a massive invasion of privacy, I was also able to take a  at the site's "spy"board and was able to see that it can view what site you visit the most and what you are currently on. Of course, this site was most visited because I get bored and I like coding. I have a small assumption that it lags out any "other" websites because once this was noticed by me, my computer starts freezing on websites like this. Could just be chromebook lag, or a coincidence. But I doubt this because it gets proccedingly slower.  Apparantly GitHub might get blocked soon, which I will hopefully oppose since there is nothing malicious about the site, as it's just coding.
+Some very concerning things about this RAT is that it can view whatever you are doing at anytime, which is a massive invasion of privacy, I was also able to take a  at the site's "spy"board and was able to see that it can view what site you visit the most and what you are currently on. Of course, this site was most visited because I get bored and I like coding. I have a small assumption that it lags out any "other" websites because once this was noticed by me, my computer starts freezing on websites like this. Could just be chromebook lag, or a coincidence. But I doubt this because it gets proccedingly slower.
 
 ## Important Information
 While taking a glance at the main panel, I have noticed that this has WAY more permission than it should have. It has the ability to see recent search history, capture the current screen (explained earlier in thread) and recordings (which I have no idea what that is). There is also a notification for "unusual browsing history" which will report searches, in an example I was able to see, it was "google snakw" (google snake).
@@ -63,4 +63,18 @@ You could try creating a website, and adding a popup spam, since basic HTML is t
 
 
 ## Idea #2 - Internet Connection
-I don't know yet...
+While trying to find loopholes in the system, I have figured out that the extension is unable to access the device if it is not connected to the internet, this is very good news for us, as I was able to see the panel for me and it said "Loading". So I would say this is a current success.
+
+### Pros
++ Complete bypass for anything
++ Leaves no trace
++ Does what it is supposed to do
++ Google Suite (docs, slides, etc) fully works offline.
+
+
+### Cons
+- You will have limited site access for as long it is disconnected
+- Probably other stuff but I haven't tested it yet.
+
+## Workarounds
+I don't know, but I will research this more.

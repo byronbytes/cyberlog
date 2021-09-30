@@ -44,14 +44,19 @@ The first thing I noticed is that if the site gives a popup before closure, it w
 
 ### Pros
 + Will give an extra 30 seconds of reflex time.
-+ Not annoying unless it was force-closed
++ Not annoying unless it was force-closed.
 
 ### Cons
-- Not permanent
+- Not permanent.
 
 ## Roadblocks
 ![image](https://user-images.githubusercontent.com/53088136/135456604-4ae4bf90-1cdd-49c3-a9fc-cf9cda4b26f6.png)
-Unable to create extensions.
+
+Unable to create extensions. Well there goes that idea.
 
 ## Workarounds
-You could try creating a website, and adding a popup spam, since basic HTML is the only thing needed for that.
+You could try creating a website, and adding a popup spam, since basic HTML is the only thing needed for that. Unfortunately that cannot apply to every website, and only a select few, so I guess overall this cannot work.
+
+
+## Idea #2 - IDK
+I don't know yet...

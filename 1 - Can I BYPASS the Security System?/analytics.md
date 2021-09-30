@@ -78,3 +78,16 @@ While trying to find loopholes in the system, I have figured out that the extens
 
 ## Workarounds
 I don't know, but I will research this more.
+
+
+## Idea #3 (For Search History) - Redirect Spamming
+They are also able to view your search history remotely, not really a problem but I guess finding out my coding stuff can lead to finding other stuff, so why not spam redirect it?
+
+### Pros
++ Easy to make
++ Can work really well
++ You would need to scroll... a lot
+
+
+### Cons
+- If you actually use search history to get back to items, well sorry.

@@ -76,6 +76,10 @@ While trying to find loopholes in the system, I have figured out that the extens
 - You will have limited site access for as long it is disconnected
 - Probably other stuff but I haven't tested it yet.
 - Online Multiplayer stuff does not work
+
+## Roadblocks
+It still technically is "offline" which makes it tough to find out when to disconnect.
+
 ## Workarounds
 I don't know, but I will research this more.
 

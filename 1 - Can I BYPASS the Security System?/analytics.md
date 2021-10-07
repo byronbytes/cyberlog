@@ -95,3 +95,9 @@ They are also able to view your search history remotely, not really a problem bu
 
 ### Cons
 - If you actually use search history to get back to items, well sorry.
+
+
+
+# 10/7/21 - New Problems & Analytics
+
+New day, thought it was going well until one of the classes took a more harsh approach to this, there is a feature called "Locking" which locks the whole chromebook and does not let you access any websites, it seems to only overlap the current website, which is a slight flaw that can be fixed. They also seem to be gathering sites to do a major block, which means this site might get blocked. So we need to find more bypasses FAST.
